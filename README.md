@@ -1,2 +1,2 @@
 # python-assginment
-python assignment
+In this repositry python assignment and exrscise are upload
